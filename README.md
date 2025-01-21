@@ -22,10 +22,6 @@ This project implements a robust, scalable system for real-time synchronization 
 
 The system is built using Node.js, Express, Redis (for queuing), and Bull (for job processing). It provides a seamless, bidirectional synchronization between Google Sheets and PostgreSQL, handling data validation, conflict resolution, and error management.
 
-## Demo
-Check out this demo video to see the project in action:
-
-[![Demo Video](https://img.youtube.com/vi/GTWGgBQXbA4/0.jpg)](https://youtu.be/GTWGgBQXbA4)
 
 
 ![Project Architecture](./setup/architecture_diagram.png)
